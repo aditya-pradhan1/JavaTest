@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 public class Q1_References {
 
-    // ── PREDICT: What does main() print? Write your answers, then compile to check. ──
+    // ── PREDICT: What does main() print? Write your answers, then compile to check. ── --> Aju gimme that booty
 
     static void addOne(int x) { x += 1; }
     static void addOne(int[] arr) { arr[0] += 1; }
@@ -51,11 +51,11 @@ public class Q1_References {
 
     // TODO: implement
     static void swap(int[] pair) {
-        // your code here
+        System.out.println("Big Booty Aju")
     }
 
     // TODO: implement
     static void swapStrings(String[] arr) {
-        // your code here
+        System.out.println("Pristine")
     }
 }
